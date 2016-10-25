@@ -1,0 +1,32 @@
+{
+    "AX": {
+        "center_dac": null, 
+        "center_signal": null, 
+        "high_dac": null, 
+        "high_signal": null, 
+        "low_dac": null, 
+        "low_signal": null, 
+        "points": "QLu2B7xp5SJAu7oxPW5+KUC7vlu9700QQLvChjz0x/JAu8awPgICpkC7ytq9zctNQLvPBb3ZfxFAu9MvvX6tVEC711q8v0SHQLvbhL2Ag5JAu9+uvWuuiUC749m9aGPyQLvoA73fCq9Au+wtPayVR0C78Fg+QdA7QLv0gj3p4SBAu/isPpOF/UC7/Nc+IYrOQLwBAT6ncDNAvAUrPqGGgEC8CVY+ZHjUQLwNgD7OnsVAvBGqPpXy80C8FdU+hS8aQLwZ/z6ip/ZAvB4pPouZh0C8IlQ+i8C1QLwmfj6bP4ZAvCqoPoDUL0C8LtM+mVQgQLwy/T5eJEdAvDcoPo6gGkC8O1I+b4J/QLw/fD6ViXJAvEOnPmz9zkC8R9E+hdreQLxL+z7KYF5AvFAmPtC3+EC8VFA+vMByQLxYej6k6uVAvFylPr2ZqUC8YM8+oNGYQLxk+T6z0ehAvGkkPoyQqUC8bU4+qKzVQLxxeD4/df5AvHWjPcJMQUC8ec099U3VQLx99z4/ggpAvIIiPW5mGkC8hkw8tGcvQLyKdjwVP11AvI6hPZCe5EC8kss9nvQxQLyW9j20AlVAvJsgvJiyhUC8n0o9elVjQLyjdb1FyFJAvKefPW/O9UC8q8k9lhJl"
+    }, 
+    "CDD": {
+        "center_dac": null, 
+        "center_signal": null, 
+        "high_dac": null, 
+        "high_signal": null, 
+        "low_dac": null, 
+        "low_signal": null, 
+        "points": "QLu2BwAAAABAu7oxAAAAAEC7vlsAAAAAQLvChgAAAABAu8awAAAAAEC7ytoAAAAAQLvPBQAAAABAu9MvOZtXCUC711oAAAAAQLvbhAAAAABAu9+uAAAAAEC749kAAAAAQLvoAzobVwlAu+wtAAAAAEC78Fg6G1cJQLv0gjqbVwlAu/isOmkCjkC7/Nc6m1cJQLwBATtCLM1AvAUrO4fsKkC8CVY8AxF0QLwNgDwH7CxAvBGqPFpycEC8FdU8d5LFQLwZ/zyWfFxAvB4pPJ3EcUC8IlQ8op8rQLwmfjyp50BAvCqoPKd55EC8LtM8mOm4QLwy/Ty2Cg9AvDcoPK7B+UC8O1I8wizeQLw/fDyp50BAvEOnPNMqZ0C8R9E8uuTIQLxL+zzacn1AvFAmPJGho0C8VFA8pQyHQLxYejzL4lFAvFylPLEvVkC8YM888Eq/QLxk+TyneeRAvGkkPNgFIEC8bU48wizeQLxxeDygMc5AvHWjPNMqZ0C8ec08jzRGQLx99zyUDv9AvIIiPIMReEC8hkw8X00pQLyKdjxL4kZAvI6hO99NI0C8kss78rgFQLyW9juuwe5AvJsgO4fsKkC8n0o7G1cKQLyjdTsuwexAvKefOsIszEC8q8k5m1cJ"
+    }, 
+    "H1": {
+        "center_dac": 5.8810000601202406, 
+        "center_signal": 7.2665371058457273, 
+        "high_dac": 5.8886653907815631, 
+        "high_signal": 5.3803420358797718, 
+        "low_dac": 5.873334729458918, 
+        "low_signal": 5.3551606583594191, 
+        "points": "QLu2B72eqfRAu7oxu2IXgEC7vlu9LS5NQLvChryfMJ5Au8awPSX/p0C7yto97GGmQLvPBT1RHMhAu9MvPnRabkC711o+xaVtQLvbhD9YUutAu9+uP7Rkx0C749lADpz1QLvoA0BAME5Au+wtQIRW3EC78FhAnvAQQLv0gkC4napAu/isQMbhtUC7/NdA06dcQLwBAUDd5NhAvAUrQNkZ60C8CVZA4GhWQLwNgEDg8PBAvBGqQN9fr0C8FdVA31sJQLwZ/0DexF1AvB4pQN+4xEC8IlRA3yN+QLwmfkDeVx1AvCqoQOih9EC8LtNA4/CeQLwy/UDgl9JAvDcoQOLBEEC8O1JA43TWQLw/fEDli1VAvEOnQOGqekC8R9FA5KSpQLxL+0DlW8ZAvFAmQOeRW0C8VFBA5gtxQLxYekDhjslAvFylQOOHPkC8YM9A4XDfQLxk+UDYbT1AvGkkQMzrREC8bU5AvLt/QLxxeECinwxAvHWjQIV0FEC8ec1ATFyGQLx990ANExRAvIIiP65OfUC8hkw/H6HJQLyKdj5iK6BAvI6hPhJKyEC8ksu8/GPxQLyW9r4Im7BAvJsgPK3W2kC8n0o8IZe+QLyjdb0LSQlAvKefPbT5mkC8q8m9RDtu"
+    }, 
+    "fmt": ">ff", 
+    "reference_detector": "H1", 
+    "reference_isotope": "Ar40"
+}
